@@ -1,0 +1,19 @@
+{
+  "contactOwner": "6285172200670",
+  "ownerNumber": ["6285172200670@s.whatsapp.net"],
+  "botName": "Holand Bot",
+  "ownerName": "Hafizz",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "YadixHafizz",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "-",
+      "atas_nama": "NO NAME"
+    },
+    "dana": {
+      "nomer": "-",
+      "atas_nama": "NO NAME"
+    }
+  }
+}
